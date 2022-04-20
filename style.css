@@ -1,0 +1,31 @@
+.color-x1 {
+    color: chocolate;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.topnav {
+    text-decoration: none;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#sidebar {
+    position: fixed;
+    width: 10%;
+    height: 100%;
+    background-color: chocolate;
+}
+
+#sidebar {
+    color: white;
+    font-size: 80%;
+    padding: 30px;
+    border-bottom: 1px solid gray;
+    text-align: center;
+}
